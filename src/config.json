@@ -1,8 +1,8 @@
 {
   "id": "68e7e3605b158faf2b16b967",
   "logo": "https://i.ibb.co/nsqj8MMm/blob.webp",
-  "store_name": "Looki store ",
-  "main_color": "#001637ff",
+  "store_name": "Looki store",
+  "main_color": "#ffffff",
   "phone": "0558641731",
   "repoName": "looki_store-nc",
   "facebook": "https://www.facebook.com/",
@@ -31,6 +31,5 @@
   "facebookPixel": {
     "name": "next-commerce",
     "id": "next-commerce"
-  },
-  "language": "ar"
+  }
 }
