@@ -14,17 +14,17 @@
   "header": {
     "name": true,
     "logo": true,
-    "headercolor": "#387bad",
-    "namecolor": "#ffffff",
+    "headercolor": "#ffffff",
+    "namecolor": "#000000",
     "barcolor": "#333"
   },
   "thanks": {
     "img": false,
-    "title": false,
-    "about": true,
+    "title": true,
+    "about": false,
     "homebutton": false,
-    "phone": false,
-    "media": true,
+    "phone": true,
+    "media": false,
     "titleText": "Thank you for your order!",
     "aboutText": "We will contact you soon. Have a nice day."
   },
