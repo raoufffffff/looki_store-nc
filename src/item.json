@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "68efeacc9f6f08a58d018aea",
+    "userId": "68e7e3605b158faf2b16b967",
+    "name": "Montre PATEK PHILIPPE",
+    "price": 3300,
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/gZC8rkKP/blob.png",
+      "https://i.ibb.co/wrPWWrX4/blob.png",
+      "https://i.ibb.co/Y7Y95YwN/blob.png",
+      "https://i.ibb.co/8gY2G8R8/blob.png"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-10-15T18:41:16.573Z",
+    "__v": 0
+  }
+]
