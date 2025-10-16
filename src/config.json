@@ -1,35 +1,7 @@
 {
-  "id": "68e7e3605b158faf2b16b967",
-  "logo": "https://i.ibb.co/nsqj8MMm/blob.webp",
-  "store_name": "Looki store",
-  "main_color": "#001637ff",
-  "phone": "0558641731",
   "repoName": "looki_store-nc",
-  "facebook": "https://www.facebook.com/",
-  "instagram": "https://www.instagram.com/looki_storee?igsh=MWp1dzBlcTl1MnBmMw==",
-  "tiktok": "https://www.tiktok.com/",
-  "email": "raouf.hamoudi.r@gmail.com",
-  "tiktokP": "",
-  "FacebookP": "",
-  "header": {
-    "name": true,
-    "logo": true,
-    "headercolor": "#ffffff",
-    "namecolor": "#000000",
-    "barcolor": "#333"
-  },
-  "thanks": {
-    "img": false,
-    "title": true,
-    "about": false,
-    "homebutton": false,
-    "phone": true,
-    "media": false,
-    "titleText": "Thank you for your order!",
-    "aboutText": "We will contact you soon. Have a nice day."
-  },
   "facebookPixel": {
-    "name": "next-commerce",
-    "id": "next-commerce"
+    "name": "loukmane pixel 1",
+    "id": "24844104791898509"
   }
 }
