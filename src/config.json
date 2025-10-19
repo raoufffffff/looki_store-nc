@@ -29,7 +29,14 @@
     "aboutText": "We will contact you soon. Have a nice day."
   },
   "facebookPixel": {
-    "name": "lokman",
-    "id": "24844104791898509"
-  }
+    "name": "next-commerce",
+    "id": "next-commerce"
+  },
+  "faqs": [
+    {
+      "question": ";fdlf;",
+      "answer": "lklklklk",
+      "id": "1760905479603"
+    }
+  ]
 }
